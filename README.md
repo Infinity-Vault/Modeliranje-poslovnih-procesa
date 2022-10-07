@@ -11,7 +11,7 @@ Kolekcija materijala (predavanja i vjezbi) za predmet Modeliranje poslovnih proc
 **Vjezbe**
 
 
-Vjezbe 1- 6.10.2022 (Upoznavanje s predmetom)
+Vjezbe 1- 6.10.2022 (Upoznavanje s predmetom i informacije za seminarski rad)
 
 <hr>
 
