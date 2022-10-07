@@ -1,6 +1,7 @@
 # Modeliranje-poslovnih-procesa
 Kolekcija materijala (predavanja i vjezbi) za predmet Modeliranje poslovnih procesa
 
+![](https://komarev.com/ghpvc/?username=Modeliranje-poslovnih-procesaI&label=Broj+posjeta:)
 
 **Predavanja**
 
