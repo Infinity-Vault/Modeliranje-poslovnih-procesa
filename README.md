@@ -4,6 +4,8 @@ Kolekcija materijala (predavanja i vjezbi) za predmet Modeliranje poslovnih proc
 
 **Predavanja**
 
+Predavanje 1- 5.10.2022 (Upoznavanje sa syllabusom predmeta)
+
 <hr>
 
 
