@@ -25,6 +25,8 @@ Alati koji su nam potrebni da bi pratili nastavne aktivnosti:
 
 [ClickUp (Izrazeniji i moderniji UI) tool](https://clickup.com/pricing?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_t4_nnc_brand_trial_all-devices_cpc_lp_x_all-departments_alpha_kd-brand-rlsa-t4-20220921&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_visitors-nonadwords&utm_term=e_clickup)
 
+[Visual Paradigm](https://www.visual-paradigm.com/download/)
+
 <b>Par info. vezano za seminarski rad:</b>
 - Glavni posao je da analizirate, specificirate i dizajnirate informacioni sistem.
 - Sami birate temu, odnosno informacioni sistem.
